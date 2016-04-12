@@ -1,0 +1,10 @@
+body {
+  background-color: blue;
+  color: white;
+}
+#team {
+  float: right;
+}
+#legal {
+  clear: right;
+}
